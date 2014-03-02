@@ -1,0 +1,1 @@
+This repository is deprecated. My automatic packages are now hosted on https://github.com/TomOne/chocolatey-packages/tree/master/automatic
